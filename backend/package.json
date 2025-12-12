@@ -1,7 +1,7 @@
 {
-    "name": "estoque-backend",
+    "name": "supermarket-admin-backend",
     "version": "1.0.0",
-    "description": "API REST para administração de estoque",
+    "description": "API REST para administração de inventário de supermercado",
     "main": "server.js",
     "scripts": {
       "start": "node server.js",
